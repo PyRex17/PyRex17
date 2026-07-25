@@ -9,23 +9,31 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cs,js" alt="Languages" />
-  
-  <br /><br />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+
+  <br/><br/>
 
   <!-- Cybersecurity & Security Tools -->
-  <img src="https://skillicons.dev/icons?i=linux,kali" alt="Security & OS" />
-  <img src="https://img.shields.io/badge/Wireshark-167DA4?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/></a>
 
-  <br /><br />
+  <br/><br/>
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/></a>
 
-  <br /><br />
+  <br/><br/>
 
   <!-- Tools & Environments -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" alt="Tools" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/></a>
 </p>
 
 ---
