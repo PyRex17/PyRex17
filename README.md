@@ -59,5 +59,5 @@ Just started my programming journey! Currently diving deep into backend logic, d
 </p>
 
 <p align="center">
-  👀 Profile Views: <img src="https://profile-counter.glitch.me/PyRex17/count.svg" align="center" />
+  👀 Profile Views: <img src="https://komarev.com/ghpvc/?username=PyRex17&color=00ff66&style=flat-square&label=VIEWS" alt="Profile Views" />
 </p>
