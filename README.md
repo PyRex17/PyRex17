@@ -9,32 +9,23 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-  <br />
+  <img src="https://skillicons.dev/icons?i=python,cs,js" alt="Languages" />
+  
+  <br /><br />
 
   <!-- Cybersecurity & Security Tools -->
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shields&logoColor=00FF00" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=linux,kali" alt="Security & OS" />
+  <img src="https://img.shields.io/badge/Wireshark-167DA4?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
 
-  <br />
+  <br /><br />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
 
-  <br />
+  <br /><br />
 
   <!-- Tools & Environments -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" alt="Tools" />
 </p>
 
 ---
