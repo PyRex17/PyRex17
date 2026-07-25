@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PyRex17
+# 👋 Hi, I'm Mahdi
 
 ### 👨‍💻 Aspiring Python & Backend Developer 🐍
 Just started my programming journey! Currently diving deep into Python, learning backend logic, and turning code into reality. ⚙️
