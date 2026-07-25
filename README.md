@@ -5,6 +5,15 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 ---
 
+### 📌 Current Focus & Goals
+* 🐍 **Backend Development:** Mastering Python, core logic, and clean code
+* 🛡️ **Cybersecurity:** Learning Network Security, Linux Administration & Ethical Hacking
+* 🗄️ **Databases:** Working with Relational Databases (PostgreSQL, MySQL, SQLite)
+* 💻 **Secondary Language:** Exploring C# for automation & tools
+* 🕶️ **Environment:** Dark mode always
+
+---
+
 ### 🛠️ Languages & Tech Stack
 
 <p align="left">
@@ -12,15 +21,6 @@ Just started my programming journey! Currently diving deep into backend logic, d
     <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,git," alt="Tech Stack" />
   </a>
 </p>
-
----
-
-### 📌 Current Focus & Goals
-* 🐍 **Backend Development:** Mastering Python, core logic, and clean code
-* 🛡️ **Cybersecurity:** Learning Network Security, Linux Administration & Ethical Hacking
-* 🗄️ **Databases:** Working with Relational Databases (PostgreSQL, MySQL, SQLite)
-* 💻 **Secondary Language:** Exploring C# for automation & tools
-* 🕶️ **Environment:** Dark mode always
 
 ---
 
