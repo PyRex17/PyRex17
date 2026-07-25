@@ -17,8 +17,8 @@ Just started my programming journey! Currently diving deep into backend logic, d
 ### 🛠️ Languages & Tech Stack
 
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,github,git,%22%20alt=%22Tech%20Stack%22 />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,git&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
