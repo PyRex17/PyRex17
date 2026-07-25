@@ -8,32 +8,9 @@ Just started my programming journey! Currently diving deep into backend logic, d
 ### 🛠️ Languages & Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-
-  <br/><br/>
-
-  <!-- Cybersecurity & Security Tools -->
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/></a>
-
-  <br/><br/>
-
-  <!-- Databases -->
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/></a>
-
-  <br/><br/>
-
-  <!-- Tools & Environments -->
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/></a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,git,github" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
