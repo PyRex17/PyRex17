@@ -35,5 +35,7 @@ Just started my programming journey! Currently diving deep into backend logic, l
 
 ### 📫 Connect with Me
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/RexMahdi17">
+    <img src="https://img.shields.io/badge/Add_Me_On_Discord-RexMahdi17-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Friend Request" />
+  </a>
 </p>
