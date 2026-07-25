@@ -9,7 +9,7 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,git,github" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,spyder,git,github" alt="Tech Stack" />
   </a>
 </p>
 
