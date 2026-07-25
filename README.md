@@ -18,7 +18,7 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,git&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,linux,kali,postgres,mysql,sqlite,vscode,visualstudio,pycharm,anaconda,github,git&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
