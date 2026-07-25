@@ -8,8 +8,7 @@
   </a>
 </p>
 
----
-# 👋 Hi, I'm Mahdi
+# 👋 Hey, I'm Mahdi
 
 
 ### 👨‍💻 Aspiring Backend & Cybersecurity Developer 🛡️
