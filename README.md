@@ -54,15 +54,20 @@ Just started my programming journey! Currently diving deep into backend logic, d
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-RexMahdi17-111111?style=for-the-badge&logo=discord&logoColor=00FF66&labelColor=0d0d0d" />
+  <a href="https://discord.com/users/rexmahdi17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" align="center" />
   </a>
-  <a href="https://linkedin.com/in/Mahdi-Poladi">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahdi--Poladi-111111?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=0d0d0d" />
+  <code><b>RexMahdi17</b></code>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahdi-poladi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" align="center" />
   </a>
+  <code><b>Mahdi-Poladi</b></code>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mahdi.poladi1387@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mahdi.poladi1387-111111?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=0d0d0d" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" align="center" />
   </a>
+  <code><b>mahdi.poladi1387@gmail.com</b></code>
 </p>
 
 <br />
