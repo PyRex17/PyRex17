@@ -54,11 +54,14 @@ Just started my programming journey! Currently diving deep into backend logic, d
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-REXMAHDI17-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahdi.poladi1387@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mahdi.poladi1387%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-REXMAHDI17-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
