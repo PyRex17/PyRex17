@@ -55,13 +55,13 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="left">
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-RexMahdi17-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-RexMahdi17-111111?style=for-the-badge&logo=discord&logoColor=00FF66&labelColor=0d0d0d" />
   </a>
   <a href="https://linkedin.com/in/Mahdi-Poladi">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahdi-Poladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mahdi--Poladi-111111?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=0d0d0d" />
   </a>
   <a href="mailto:mahdi.poladi1387@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mahdi.poladi1387-111111?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=0d0d0d" />
   </a>
 </p>
 
