@@ -54,20 +54,11 @@ Just started my programming journey! Currently diving deep into backend logic, d
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://discord.com/users/rexmahdi17" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" align="center" />
-    <code><b>RexMahdi17</b></code>
-  </a>
+  <a href="https://discord.com/users/rexmahdi17" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="38" height="38" alt="Discord" align="center"/></a> <code><b>RexMahdi17</b></code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mahdi-poladi" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" align="center" />
-    <code><b>Mahdi-Poladi</b></code>
-  </a>
+  <a href="https://www.linkedin.com/in/mahdi-poladi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38" alt="LinkedIn" align="center"/></a> <code><b>Mahdi-Poladi</b></code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mahdi.poladi1387@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" align="center" />
-    <code><b>mahdi.poladi1387@gmail.com</b></code>
-  </a>
+  <a href="mailto:mahdi.poladi1387@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38" height="38" alt="Gmail" align="center"/></a> <code><b>mahdi.poladi1387@gmail.com</b></code>
 </p>
 
 <br />
