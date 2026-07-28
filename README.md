@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# 👋 Hey Good? 
+# 👋 Hey there! 
 
 👨‍💻 **Aspiring Backend & Cybersecurity Developer** 🛡️
 
