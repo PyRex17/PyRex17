@@ -5,8 +5,9 @@
 <!-- متن‌های ترمینالی ثابت زیر بنر -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%3E+Mahdi_Poladi+%5B+Cybersecurity+%26+Backend+%5D;%24+systemctl+status+developer.service;%3E+Status%3A+ACTIVE+%5B+Building+Secure+Systems+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;Backend+%26+Cybersecurity+Developer;SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
   </a>
+  
 </p>
 
 
