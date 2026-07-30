@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=340&section=header&text=$%20whoami&fontSize=34&fontColor=00FF66&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=header&text=$%20WHOAMI?&fontSize=34&fontColor=00FF66&animation=twinkling" width="100%" />
 </p>
 
 <!-- متن‌های ترمینالی ثابت زیر بنر -->
