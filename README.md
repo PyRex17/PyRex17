@@ -76,6 +76,4 @@ Just started my programming journey! Currently diving deep into backend logic, d
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer&text=01010011%2001011001%2001010011%2001010100%2001000101%2001001101%20%5B%20SYSTEM_OFFLINE%20%5D&fontSize=16&fontColor=00FF66&animation=twinkling" width="100%" />
 </p>
 
-<p align="center">
-  👀 Profile Views: <img src="https://komarev.com/ghpvc/?username=PyRex17&color=00ff66&style=flat-square&label=VIEWS" alt="Profile Views" />
-</p>
+
