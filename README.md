@@ -18,7 +18,7 @@
 
 👨‍💻 **Aspiring Backend & Cybersecurity Developer** 🛡️
 
-Just started my programming journey! Currently diving deep into backend logic, database architecture, and security concepts to build secure and resilient applications. ⚙️
+Just started my programming journey! Currently diving deep into backend logic, database architecture, and security concepts to build secure and resilient applications. 
 
 ---
 
