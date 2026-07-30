@@ -64,7 +64,7 @@ Just started my programming journey! Currently diving deep into backend logic, d
   </a>
   <code><b>Mahdi-Poladi</b></code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mahdi.poladi1387@gmail.com">
+  <a href="gmailto:mahdi.poladi1387@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" align="center" />
   </a>
   <code><b>mahdi.poladi1387@gmail.com</b></code>
