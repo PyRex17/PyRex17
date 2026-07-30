@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=$%20WHOAMI&fontSize=34&fontColor=00FF66&animation=twinkling" width="100%" />
 </p>
 
