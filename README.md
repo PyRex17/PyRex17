@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=260&section=header&text=$%20whoami&fontSize=32&fontColor=00FF66&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=340&section=header&text=$%20whoami&fontSize=34&fontColor=00FF66&animation=twinkling" width="100%" />
 </p>
 
-<!-- سیستم لاگین و هویت متحرک -->
+<!-- متن‌های ترمینالی زیر بنر -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;%24+whoami+--role%3Dbackend_cybersec" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- معرفی ترمینالی متحرک -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=00FF66&center=true&vCenter=true&width=700&lines=%3E+OPERATOR%3A+Mahdi+Poladi;%3E+STATUS%3A+Active+%2F+Diving+deep+into+backend+logic;%3E+FOCUS%3A+Security+concepts+%26+Database+architecture;%3E+GOAL%3A+Building+secure+%26+resilient+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;%24+whoami+--role%3Dbackend_cybersec;%3E+OPERATOR%3A+Mahdi+Poladi;%3E+FOCUS%3A+Security+concepts+%26+Database+architecture;%3E+GOAL%3A+Building+secure+%26+resilient+applications" alt="Typing SVG" />
   </a>
 </p>
 
