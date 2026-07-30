@@ -1,6 +1,11 @@
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=340&section=header&text=$%20WHOAMIi&fontSize=34&fontColor=00FF66&animation=twinkling" width="50%" />
+</p>
+
+<!-- متن‌های ترمینالی زیر بنر -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF66&background=0F2027&center=true&vCenter=true&width=800&height=280&lines=%24+whoami;System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;%24+whoami+--role%3Dbackend_cybersec;%3E+OPERATOR%3A+Mahdi+Poladi;%3E+STATUS%3A+Active+%2F+Diving+deep+into+backend+logic;%3E+FOCUS%3A+Security+concepts+%26+Database+architecture;%3E+GOAL%3A+Building+secure+%26+resilient+applications" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;%24+whoami+--role%3Dbackend_cybersec;%3E+OPERATOR%3A+Mahdi+Poladi;%3E+FOCUS%3A+Security+concepts+%26+Database+architecture;%3E+GOAL%3A+Building+secure+%26+resilient+applications" alt="Typing SVG" />
   </a>
 </p>
 
