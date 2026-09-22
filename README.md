@@ -33,7 +33,7 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,html,css,js,git,github,vscode,visualstudio,pycharm,postgres"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,html,css,js,git,github,vscode,visualstudio,pycharm,postgres,mysql"/>
   </a>
 </p>
 
