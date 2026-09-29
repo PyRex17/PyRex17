@@ -2,7 +2,7 @@
 </p>
 <img width="1000" height="320" alt="banner2 (1)" src="https://github.com/user-attachments/assets/a22adbc5-fad0-417f-872a-adcc2c438dbd" />
 
-# 👋 Hey, I'm Mahdi! 
+# 👋 Hey, I'm Mahdi. 
 
 👨‍💻 **Aspiring Backend & Cybersecurity Developer** 🛡️
 
