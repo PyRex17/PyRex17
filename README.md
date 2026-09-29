@@ -1,18 +1,12 @@
-<p>
-  <a href=file:///G:/01%20Profile/banner%20(2).svg>
-</p>
-<!-- متن‌های ترمینالی ثابت زیر بنر -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;Backend+%26+Cybersecurity+Developer;SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
-  </a>
-  
-</p>
+
+<img width="1000" height="320" alt="banner2 (1)" src="https://github.com/user-attachments/assets/a22adbc5-fad0-417f-872a-adcc2c438dbd" />
+
 
 
 # 👋 Hey there! 
 
 👨‍💻 **Aspiring Backend & Cybersecurity Developer** 🛡️
+
 
 Just started my programming journey! Currently diving deep into backend logic, database architecture, and security concepts to build secure and resilient applications. 
 
@@ -40,25 +34,28 @@ Just started my programming journey! Currently diving deep into backend logic, d
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://discord.com/users/rexmahdi17" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" align="center" />
-  </a>
-  <code><b>RexMahdi17</b></code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mahdi-poladi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" align="center" />
-  </a>
-  <code><b>Mahdi-Poladi</b></code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mahdi.poladi1387@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" align="center" />
-  </a>
-  <code><b>mahdi.poladi1387@gmail.com</b></code>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=150&section=footer&text=01010011%2001011001%2001010011%2001010100%2001000101%2001001101%20%5B%20SYSTEM_OFFLINE%20%5D&fontSize=20&fontColor=00FF66&animation=twinkling" width="100%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://discord.com/users/rexmahdi17" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" width="56" height="56" alt="Discord" />
+      </a>
+      <br />
+      <sub><b>RexMahdi17</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.linkedin.com/in/mahdi-poladi" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn" />
+      </a>
+      <br />
+      <sub><b>Mahdi-Poladi</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="mailto:mahdi.poladi1387@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="56" height="56" alt="Gmail" />
+      </a>
+      <br />
+      <sub><b>mahdi.poladi1387@gmail.com</b></sub>
+    </td>
+  </tr>
+</table>
