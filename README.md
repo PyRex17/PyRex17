@@ -1,7 +1,6 @@
 
+</p>
 <img width="1000" height="320" alt="banner2 (1)" src="https://github.com/user-attachments/assets/a22adbc5-fad0-417f-872a-adcc2c438dbd" />
-
-
 
 # 👋 Hey there! 
 
@@ -59,3 +58,7 @@ Just started my programming journey! Currently diving deep into backend logic, d
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=150&section=footer&text=01010011%2001011001%2001010011%2001010100%2001000101%2001001101%20%5B%20SYSTEM_OFFLINE%20%5D&fontSize=20&fontColor=00FF66&animation=twinkling" width="100%" />
+</p>
