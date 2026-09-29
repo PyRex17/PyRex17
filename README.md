@@ -1,5 +1,4 @@
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Mahdi Poladi - Python Developer, Backend and Cybersecurity">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Mahdi Poladi - Python Developer, Backend and Cybersecurity">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -44,7 +43,6 @@
     <path d="M52 78 L38 92 L52 106 M88 78 L102 92 L88 106 M76 74 L64 110" stroke-width="4"/>
   </g>
 </svg>
-</p>
 
 <!-- متن‌های ترمینالی ثابت زیر بنر -->
 <p align="center">
