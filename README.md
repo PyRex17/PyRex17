@@ -1,13 +1,5 @@
+<img width="1000" height="320" alt="banner2-typing" src="https://github.com/user-attachments/assets/6b4b2285-1d1e-4bcb-855a-ef8814689cc0" />
 
-</p>
-<img width="1000" height="320" alt="banner2 (1)" src="https://github.com/user-attachments/assets/a22adbc5-fad0-417f-872a-adcc2c438dbd" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=System.Initialize(%22Mahdi_Poladi%22);01010101+%5B+ACCESS+GRANTED+%5D;Backend+%26+Cybersecurity+Developer;SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
-  </a>
-  
-</p>
 
 # 👋 Hey, I'm Mahdi. 
 
