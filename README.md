@@ -1,4 +1,5 @@
-<img width="1000" height="320" alt="banner2-typing" src="https://github.com/user-attachments/assets/6b4b2285-1d1e-4bcb-855a-ef8814689cc0" />
+<img width="1280" height="360" alt="banner-wide" src="https://github.com/user-attachments/assets/c6a850fd-ae6e-4b65-b9c1-77cf26261420" />
+
 
 
 # 👋 Hey, I'm Mahdi. 
