@@ -1,4 +1,4 @@
-<img width="1280" height="360" alt="banner-wide" src="https://github.com/user-attachments/assets/c6a850fd-ae6e-4b65-b9c1-77cf26261420" />
+<img width="1280" height="360" alt="banner grren" src="https://github.com/user-attachments/assets/e4037469-6ac9-4899-b0f2-5a93531aaf2f" />
 
 
 
