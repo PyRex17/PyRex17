@@ -1,4 +1,5 @@
-<img width="1280" height="360" alt="banner grren" src="https://github.com/user-attachments/assets/e4037469-6ac9-4899-b0f2-5a93531aaf2f" />
+<img width="1280" height="360" alt="END_profile_banner_github" src="https://github.com/user-attachments/assets/080b64cb-59ed-47d0-aaf0-165104078147" />
+
 
 
 
